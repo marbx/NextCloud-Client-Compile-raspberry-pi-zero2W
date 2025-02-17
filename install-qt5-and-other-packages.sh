@@ -1,0 +1,1 @@
+sudo apt update && sudo apt install --yes qt5-qmake cmake g++ openssl libssl-dev libzip-dev qtbase5-private-dev qtdeclarative5-dev qtwebengine5-dev qt5keychain-dev qttools5-dev sqlite3 libsqlite3-dev libqt5svg5-dev zlib1g-dev libqt5websockets5-dev qtquickcontrols2-5-dev libkf5archive-dev extra-cmake-modules libkf5kio-dev libqt5webkit5-dev inkscape doxygen
